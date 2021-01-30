@@ -1,7 +1,3 @@
-id: pageone
-title: Education
----
-
 # **Education**
 
 *University of Puget Sound, Tacoma, WA.*  
